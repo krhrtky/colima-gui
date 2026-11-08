@@ -2,6 +2,8 @@
 
 Colima のプロファイルと Docker コンテナを操作する、日本語のデスクトップアプリです。Tauri 2、Rust、React、TypeScript、Vite で実装しています。
 
+配布版を利用する場合は [GitHub Releases](https://github.com/krhrtky/colima-gui/releases/latest) から macOS／Apple Silicon 向けの DMG または ZIP を取得し、`Colima GUI.app` を Applications フォルダへ配置してください。Colima と Docker CLI は別途必要です。
+
 ## 操作できること
 
 | 対象 | 操作 |
